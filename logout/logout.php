@@ -1,5 +1,5 @@
 <?php
-// Iniciar la sesión
+// Iniciar la sdasdasdasdn
 session_start();
 
 // Destruir todas las variables de sesión
