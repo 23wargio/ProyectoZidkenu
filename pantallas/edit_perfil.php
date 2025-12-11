@@ -8,7 +8,7 @@ if (!isset($_SESSION['user_id'])) {
 }
 
 
-// Obtener datos actuales del usuario
+// Obtener datos actualasdasdasdasdario
 
 $stmt = $pdo->prepare("SELECT * FROM users WHERE id = ?");
 $stmt->execute([$_SESSION['user_id']]);
